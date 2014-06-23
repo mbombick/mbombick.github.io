@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Rails | Mark Bombick]]></title>
   <link href="http://mbombick.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://mbombick.github.io/"/>
-  <updated>2014-06-23T00:07:30-04:00</updated>
+  <updated>2014-06-23T11:48:01-04:00</updated>
   <id>http://mbombick.github.io/</id>
   <author>
     <name><![CDATA[Mark Bombick]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Introduced to Ruby on Rails]]></title>
+    <link href="http://mbombick.github.io/blog/2014/06/22/introduced-to-ruby-on-rails/"/>
+    <updated>2014-06-22T14:15:56-04:00</updated>
+    <id>http://mbombick.github.io/blog/2014/06/22/introduced-to-ruby-on-rails</id>
+    <content type="html"><![CDATA[<p>My first revelation of the power of rails came from Start Norfolk.  Start Norfolk is a 72 hour weekend hackathon/startup event.  Developers, designers, engineers, entrepreneurs, business consultants, investors, scientists, professors, students, and anyone with an interest in learning, building, and developing technology come together to pitch, build, and compete for funding.</p>
+
+<p>Start Norfolk was hatched by Zack Miller and Brennan Dunn with the We are Titans team in 2011.  I was introduced to their idea by management professor and advisor, Mike Provance at Old Dominion.  Their event was filled with seminars, mentors, and productive refreshments.</p>
+
+<p>My introduction to rails came from this startup event in 2011.  Wall signage in the industrial space of the Innovation Research Park read &ldquo;HTML5&rdquo; &amp; &ldquo;Rails&rdquo;.  I remember asking myself. &ldquo;HTML5? The same HTML I would use to get burning text on myspace? What is Ruby on Rails?&rdquo;  I was starting to draw blanks.  My years of schooling taught me to view situations from a macro and micro level.  Using Porter&rsquo;s 5 Forces, various 2x2 model matrices, and the industry value chain to continuously improve efficiency.  Realization hit. No one cares about your knowledge of current events along with your analysis &amp; conclusions that follow.  Or how long you&rsquo;ve stayed up looking at company 10K&rsquo;s &amp; 10Q&rsquo;s doing excel charts.  They want tangible products with intangible services to benefit their investment.  Things they can view, touch, and interact with.  My skills would have to improve.</p>
+
+<p>Luckly or Unluckily, technology has been ingrained in my life since a young age.  Building simple HTML homepages hosted on a old IBM tower, visual basic calculators, memories learning about data, twisting CAT5 and crimping my RJ45&rsquo;s to make network cables for my Cisco networks in highschool.  But my technical skills were vastly subpar to those in the profressional technology world.  I was out of my league with professionals who build, develop, create, and maintain things gaining a profit.  How else could they sustain their livelihood?</p>
+
+<p>How naive of me to think building a fully functional feature rich application was going to be an easy task.  With no money, no team, no technical skills, no profressional network.  My state of being was information hungry.  I read anything related to changes in domestic and international economics, socioeconomics, and technology. Including articles from Business Insider, HBR, MIT Tech Review, Mashable, Techcrunch, numerous other tech/personal blogs and mainstream media.</p>
+
+<p>But I thought to myself after my Start Norfolk experience.  The team who won didn&rsquo;t have the most dazzling product, app, or service.  What they did have, produce, and deliver was a demo. TutoriAll.  This was my &ldquo;ah hah&rdquo; moment.  I finally grasped the concept of coding, programming, developing, and the uses of languages in particular the rails framework.</p>
+
+<p>You do not have to be a savant to code, but you have to be diligent.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octo Basics Post]]></title>
