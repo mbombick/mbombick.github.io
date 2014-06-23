@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ruby | Mark Bombick]]></title>
-  <link href="http://mbombick.github.io/blog/categories/ruby/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Start Norfolk | Mark Bombick]]></title>
+  <link href="http://mbombick.github.io/blog/categories/start-norfolk/atom.xml" rel="self"/>
   <link href="http://mbombick.github.io/"/>
   <updated>2014-06-23T17:35:35-04:00</updated>
   <id>http://mbombick.github.io/</id>
@@ -30,15 +30,6 @@ Technology has been ingrained in my life since a young age.  Building simple HTM
 <p>I thought to myself after my Start Norfolk experience.  The winning team didn&rsquo;t have the most dazzling product, app, or service from my perspective.  What they did own, produce, and deliver was a demo. TutoriAll.  This was my &ldquo;ah hah&rdquo; moment.  I finally grasped the concept of coding, programming, developing, and the uses of languages in particular the rails framework.</p>
 
 <p>You do not have to be a savant to code, but you have to be diligent.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Octo Basics Post]]></title>
-    <link href="http://mbombick.github.io/blog/2014/06/22/octo-basics-post/"/>
-    <updated>2014-06-22T13:27:33-04:00</updated>
-    <id>http://mbombick.github.io/blog/2014/06/22/octo-basics-post</id>
-    <content type="html"><![CDATA[<p>Hey, this is initial content.  Lorum Ipsum.</p>
 ]]></content>
   </entry>
   
